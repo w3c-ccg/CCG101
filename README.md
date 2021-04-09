@@ -4,7 +4,7 @@ This work items focuses on the development of Credentials Community Group 101 ma
 
 This is likely an ongoing work items with deliverables at certain dates so this is an ongoing community draft with final versions of deliverables released as a community report (or video).
 
-# Resouces
+# Resources
 - [Acronyms](https://github.com/w3c-ccg/CCG101/blob/main/Acronyms.md)
 
 # Meeting Recordings
