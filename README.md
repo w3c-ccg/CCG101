@@ -13,7 +13,7 @@ Meeting recordings are hosted [in the CCG gdrive](https://drive.google.com/drive
 - April 24, 2021: A Tour of CCG websites
 
 ## Meeting notes
-Meeting notes can be found in the folder [meeting notes](./meetings notes/index.md)
+Meeting notes can be found in the folder [meeting notes](../meetings notes/index.md)
 
 ## Developer to Developer introduction
 It will be interesting to hear Ivan's and Manu's perspective on the my understanding of the what are necessary parts of the VC implementation:
